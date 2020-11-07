@@ -1,0 +1,5 @@
+[master 22f18de] push of dummy documents
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 dummy1.txt
+ create mode 100644 dummy2.conf
+ create mode 100644 dummy3.yaml

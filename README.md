@@ -1,6 +1,16 @@
 # RaspberryPiFun
 A repository that will be used for playing around with in the Linux CL
 
-first push!
+Brach Fun!
 
-fist pull!
+sd
+fs
+dfs
+df
+sdf
+s
+df
+sdf
+sdf
+sf
+sd
